@@ -2,4 +2,4 @@
 
 Fundamentos Básicos do React 35
 
-Autor: Leonardo Lavras
+Autor: Leonardo Lavras a 
